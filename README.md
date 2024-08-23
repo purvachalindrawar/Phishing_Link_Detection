@@ -37,9 +37,3 @@ Welcome to the **Phishing URL Detection System** project! This tool helps detect
 ### Run 
 ```bash
 streamlit run app.py
-
-
-
-
-
-
